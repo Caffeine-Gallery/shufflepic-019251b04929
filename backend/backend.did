@@ -1,0 +1,5 @@
+service : {
+  addImageUrl: (text) -> ();
+  getAllImageUrls: () -> (vec text) query;
+  getRandomImageUrl: () -> (text);
+}
